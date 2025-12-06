@@ -29,11 +29,9 @@ I am currently focusing on Network Security, Ethical Hacking, and AI-driven secu
 
 ---
 
-### 📊 GitHub Stats
-
+### 🔥 GitHub Streak
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav2778&show_icons=true&theme=tokyonight" height="180" alt="Abhinav's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2778&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=abhinav2778&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <br>
 
