@@ -31,13 +31,11 @@ I am currently focusing on Network Security, Ethical Hacking, and AI-driven secu
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinav2778&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2778&layout=compact&theme=tokyonight" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav2778&show_icons=true&theme=tokyonight" alt="Abhinav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2778&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <br><br><br><br><br><br><br>
 
